@@ -4,19 +4,18 @@ This repository contains the code for a 3D animated scroller developed using HTM
 
 ## Technologies Used
 
-1. **HTML**: The foundation of the website's structure.
-2. **CSS**: Used for styling and layout.
-3. **Canvas**: Utilized to create and render the 3D elements.
-4. **JavaScript**: Added interactivity and functionality to the website.
-4. **Locomotive Scroll**: Advanced Scrolling interactivity and functionality to the website.
-4. **GSAP**: Advanced Animations interactivity and functionality to the website.
+1. **HTML5**: The skeleton and structure.
+2. **CSS3**: Optimise the aesthetics and cosmetic styling.
+4. **JavaScript**: Added interactivity and functionality.
+4. **Locomotive Scroll**: Advanced Scrolling.
+4. **GSAP**: Advanced Animations.
 
 
 ## Getting Started
 
 To run the 3D animated scroller locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/3d-website.git`
+1. Clone the repository: `git clone https://github.com/your-username/3D-Animated-Scroller.git`
 2. Open the `index.html` file in your web browser.
 
 
